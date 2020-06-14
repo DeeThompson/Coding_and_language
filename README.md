@@ -1,6 +1,8 @@
 ### This Blog post is originally featured on [dev.to](dev.to) the direct link can be found [Here](https://dev.to/deethompson/human-language-endocrinology-learning-code-and-programming-4fj7) 
 ### but I thought it can function on github as well.
 
+### This blog explores my interest with learning as it pertains to code and I found this article that I feel can help on all levels because we are constantly learning, click [Here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006023) for the journal article
+
 # Human Language, Endocrinology, Learning Code and programming
 
 "Code is Not Magic"
